@@ -1,7 +1,6 @@
 package com.tos.myvolley;
 
 import android.graphics.Bitmap;
-import android.media.Image;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -35,6 +34,8 @@ import org.json.JSONObject;
 public class MainActivity extends AppCompatActivity {
 
     private ImageView miv;
+
+    private ImageView mivv;
 
     private NetworkImageView miv1;
 
